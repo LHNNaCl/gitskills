@@ -2,6 +2,6 @@
 
 int main(){
     printP p;
-    p.print();
+    p.Myprint();
     return 0;
 }
